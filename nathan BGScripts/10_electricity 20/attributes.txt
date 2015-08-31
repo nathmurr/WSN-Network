@@ -1,3 +1,0 @@
-c_manufacturer_name 3
-c_model_number 6
-c_adc_data 10
